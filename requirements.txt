@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+google.generativeai
+python-dotenv
+pdf2image
+fpdf 
+language-tool-python
+reportlab
+pytesseract
