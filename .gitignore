@@ -1,0 +1,41 @@
+# Python-related files
+__pycache__/
+*.py[cod]
+*.so
+*.log
+
+# Virtual environments
+venv/
+.env
+*.env
+
+# Streamlit-related files
+.streamlit/
+.secrets.toml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+logs/
+*.log
+*.sqlite3
+*.db
+cache/
+
+# PDF and image files generated during processing
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyTesseract and Poppler cache (if applicable)
+tessdata/
+poppler/
+
+# VSCode settings (if using VSCode)
+.vscode/
